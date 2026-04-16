@@ -1,6 +1,6 @@
-cluster,size,pct_of_total,high_income_rate,high_income_count,high_income_rate_pct,age,weeks worked in year,capital gains,dividends from stocks,num persons worked for employer,education,marital stat,major occupation code,sex,class of worker
-0,41767,28.0,0.0546,2280,5.5,42.0,49.0,0.0,0.0,2.0,High school graduate,Married-civilian spouse present,Not in universe,Female,Private
-1,69070,46.3,0.1256,8672,12.6,45.0,52.0,0.0,0.0,2.0,High school graduate,Married-civilian spouse present,Not in universe,Male,Private
-2,14627,9.8,0.0678,991,6.8,43.0,30.0,0.0,0.0,1.0,High school graduate,Married-civilian spouse present,Not in universe,Female,Private
-3,5329,3.6,0.0597,318,6.0,41.0,40.0,0.0,0.0,1.0,High school graduate,Married-civilian spouse present,Not in universe,Female,Private
-4,18382,12.3,0.0066,121,0.7,20.0,20.0,0.0,0.0,2.0,Some college but no degree,Never married,Not in universe,Male,Private
+cluster,size,pct_of_total,high_income_rate,high_income_rate_pct,age,weeks worked in year,capital gains,dividends from stocks,num persons worked for employer,education,marital stat,major occupation code,sex,class of worker
+0,41767,28.0,0.0546,5.5,42.0,49.0,0.0,0.0,2.0,High school graduate,Married-civilian spouse present,Not in universe,Female,Private
+1,69070,46.3,0.1256,12.6,45.0,52.0,0.0,0.0,2.0,High school graduate,Married-civilian spouse present,Not in universe,Male,Private
+2,14627,9.8,0.0678,6.8,43.0,30.0,0.0,0.0,1.0,High school graduate,Married-civilian spouse present,Not in universe,Female,Private
+3,5329,3.6,0.0597,6.0,41.0,40.0,0.0,0.0,1.0,High school graduate,Married-civilian spouse present,Not in universe,Female,Private
+4,18382,12.3,0.0066,0.7,20.0,20.0,0.0,0.0,2.0,Some college but no degree,Never married,Not in universe,Male,Private
