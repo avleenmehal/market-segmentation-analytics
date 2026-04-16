@@ -230,6 +230,3 @@ cross = df.groupby("cluster").agg(
 cross["actual_rate_%"]  = (cross["actual_pos"]  / cross["total"] * 100).round(1)
 cross["flagged_rate_%"] = (cross["clf_flagged"] / cross["total"] * 100).round(1)
 print(cross.to_string())
-print()
-
-print("Done.")
